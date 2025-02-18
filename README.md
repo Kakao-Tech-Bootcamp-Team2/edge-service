@@ -1,4 +1,4 @@
-# Zipbob Edge Service (집밥 요리사 엣지 서비스)
+# Zipbob Edge Service
 
 ## 개요 🚀
 
