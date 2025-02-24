@@ -29,6 +29,14 @@ Edge Service는 **API Gateway**로 동작하며, 다른 마이크로서비스와
 (Client) -> [Edge Service] -> (Backend Services)
 ```
 
+### **다른 마이크로서비스 🔗**
+
+- [Config Service](https://github.com/Kakao-Tech-Bootcamp-Team2/config-service)
+- [Ingredients Manage Service](https://github.com/Kakao-Tech-Bootcamp-Team2/ingredients-manage-service)
+- [Recipe Review Service](https://github.com/Kakao-Tech-Bootcamp-Team2/recipe-review-service)
+- [Zipbob Deployment](https://github.com/Kakao-Tech-Bootcamp-Team2/zipbob-deployment)
+- [Zipbob Client](https://github.com/Kakao-Tech-Bootcamp-Team2/zipbob-client)
+
 <br />
 
 ## 기술 스택 🛠️
